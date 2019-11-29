@@ -24,6 +24,9 @@ new Vue({
           cource: this.cource,
           acceptancePeriod: this.acceptancePeriod
         })
+        this.name = "",
+        this.cource = "",
+        this.acceptancePeriod = ""
     }
 
   }
